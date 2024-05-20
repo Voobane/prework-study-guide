@@ -21,19 +21,3 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
-
-## Badges
-
-N/A
-
-## Features
-
-N/A
-
-## How to Contribute
-
-N/a 
-
-## Tests
-
-N/A
